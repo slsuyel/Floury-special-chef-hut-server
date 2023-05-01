@@ -5,7 +5,8 @@
     "ChefName": "John Smith",
     "YearsOfExperience": 15,
     "NumberOfRecipes": 200,
-    "Likes": 500
+    "Likes": 500,
+    "Description": "With 15 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "2",
@@ -13,7 +14,8 @@
     "ChefName": "Emily Johnson",
     "YearsOfExperience": 8,
     "NumberOfRecipes": 150,
-    "Likes": 300
+    "Likes": 300,
+    "Description": "With 8 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "3",
@@ -21,7 +23,8 @@
     "ChefName": "Michael Brown",
     "YearsOfExperience": 12,
     "NumberOfRecipes": 250,
-    "Likes": 400
+    "Likes": 400,
+    "Description": "With 12 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "4",
@@ -29,7 +32,8 @@
     "ChefName": "Sarah Davis",
     "YearsOfExperience": 5,
     "NumberOfRecipes": 100,
-    "Likes": 200
+    "Likes": 200,
+    "Description": "With 5 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "5",
@@ -37,7 +41,8 @@
     "ChefName": "Daniel Wilson",
     "YearsOfExperience": 20,
     "NumberOfRecipes": 300,
-    "Likes": 700
+    "Likes": 700,
+    "Description": "With 20 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "6",
@@ -45,7 +50,8 @@
     "ChefName": "Sophia Thompson",
     "YearsOfExperience": 10,
     "NumberOfRecipes": 180,
-    "Likes": 350
+    "Likes": 350,
+    "Description": "With 10 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "7",
@@ -53,7 +59,8 @@
     "ChefName": "Jacob Martinez",
     "YearsOfExperience": 7,
     "NumberOfRecipes": 120,
-    "Likes": 250
+    "Likes": 250,
+    "Description": "With 7 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "8",
@@ -61,7 +68,8 @@
     "ChefName": "Olivia Anderson",
     "YearsOfExperience": 3,
     "NumberOfRecipes": 80,
-    "Likes": 150
+    "Likes": 150,
+    "Description": "With 3 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "9",
@@ -69,7 +77,8 @@
     "ChefName": "Ethan Thompson",
     "YearsOfExperience": 18,
     "NumberOfRecipes": 280,
-    "Likes": 600
+    "Likes": 600,
+    "Description": "With 18 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   },
   {
     "ID": "10",
@@ -77,6 +86,7 @@
     "ChefName": "Ava Hernandez",
     "YearsOfExperience": 6,
     "NumberOfRecipes": 130,
-    "Likes": 280
+    "Likes": 280,
+    "Description": "With 6 years of experience, Chef John Smith is a seasoned culinary expert. He has created 200 delectable recipes and garnered 500 likes for his delicious creations."
   }
 ]
